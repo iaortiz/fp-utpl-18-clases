@@ -36,7 +36,7 @@ public class Ejercicio3 {
                 if (x == 0) {
                     y = 1;
                     System.out.printf("El valor de Y  es: %s \n", y);
-                    
+
                 }
             }
         }
